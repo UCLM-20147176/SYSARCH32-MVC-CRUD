@@ -54,10 +54,6 @@ namespace University
             this.Show();
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-            // Added a Text and Close when the label is clicked
-            this.Close();
-        }
+       
     }
 }

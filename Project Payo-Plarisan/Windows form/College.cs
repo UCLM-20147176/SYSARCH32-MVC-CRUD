@@ -196,7 +196,7 @@ namespace University
 
         private void College_Load(object sender, EventArgs e)
         {
-
+            //deleted the create button
         }
 
         private void button1_Click(object sender, EventArgs e)
