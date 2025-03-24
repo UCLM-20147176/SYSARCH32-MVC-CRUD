@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Keny\\Desktop\\Project Payo-Plarisan\\Project Payo-Plarisan\\Project Payo-Plarisan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4862ED7A-618B-4AD1-9AC9-7F4FF4F31D3E}|Project.csproj|C:\\Users\\Keny\\Desktop\\Project Payo-Plarisan\\Project Payo-Plarisan\\Project Payo-Plarisan\\windows form\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4862ED7A-618B-4AD1-9AC9-7F4FF4F31D3E}|Project.csproj|solutionrelative:windows form\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4862ED7A-618B-4AD1-9AC9-7F4FF4F31D3E}|Project.csproj|C:\\Users\\Keny\\Desktop\\Project Payo-Plarisan\\Project Payo-Plarisan\\Project Payo-Plarisan\\windows form\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4862ED7A-618B-4AD1-9AC9-7F4FF4F31D3E}|Project.csproj|solutionrelative:windows form\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4862ED7A-618B-4AD1-9AC9-7F4FF4F31D3E}|Project.csproj|c:\\users\\keny\\desktop\\project payo-plarisan\\project payo-plarisan\\project payo-plarisan\\windows form\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4862ED7A-618B-4AD1-9AC9-7F4FF4F31D3E}|Project.csproj|solutionrelative:windows form\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4862ED7A-618B-4AD1-9AC9-7F4FF4F31D3E}|Project.csproj|C:\\Users\\Keny\\Desktop\\Project Payo-Plarisan\\Project Payo-Plarisan\\Project Payo-Plarisan\\windows form\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4862ED7A-618B-4AD1-9AC9-7F4FF4F31D3E}|Project.csproj|solutionrelative:windows form\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4862ED7A-618B-4AD1-9AC9-7F4FF4F31D3E}|Project.csproj|C:\\Users\\Keny\\Desktop\\Project Payo-Plarisan\\Project Payo-Plarisan\\Project Payo-Plarisan\\windows form\\college.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4862ED7A-618B-4AD1-9AC9-7F4FF4F31D3E}|Project.csproj|solutionrelative:windows form\\college.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4862ED7A-618B-4AD1-9AC9-7F4FF4F31D3E}|Project.csproj|C:\\Users\\Keny\\Desktop\\Project Payo-Plarisan\\Project Payo-Plarisan\\Project Payo-Plarisan\\windows form\\college.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4862ED7A-618B-4AD1-9AC9-7F4FF4F31D3E}|Project.csproj|solutionrelative:windows form\\college.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Keny\\Desktop\\Project Payo-Plarisan\\Project Payo-Plarisan\\Project Payo-Plarisan\\Windows form\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Windows form\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\Keny\\Desktop\\Project Payo-Plarisan\\Project Payo-Plarisan\\Project Payo-Plarisan\\Windows form\\Dashboard.cs",
+              "RelativeToolTip": "Windows form\\Dashboard.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAIA5wCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T03:11:26.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Keny\\Desktop\\Project Payo-Plarisan\\Project Payo-Plarisan\\Project Payo-Plarisan\\Windows form\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Windows form\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\Keny\\Desktop\\Project Payo-Plarisan\\Project Payo-Plarisan\\Project Payo-Plarisan\\Windows form\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Windows form\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T03:11:22.887Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "College.cs",
+              "DocumentMoniker": "C:\\Users\\Keny\\Desktop\\Project Payo-Plarisan\\Project Payo-Plarisan\\Project Payo-Plarisan\\Windows form\\College.cs",
+              "RelativeDocumentMoniker": "Windows form\\College.cs",
+              "ToolTip": "C:\\Users\\Keny\\Desktop\\Project Payo-Plarisan\\Project Payo-Plarisan\\Project Payo-Plarisan\\Windows form\\College.cs",
+              "RelativeToolTip": "Windows form\\College.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAhwNIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T00:47:41.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Keny\\Desktop\\Project Payo-Plarisan\\Project Payo-Plarisan\\Project Payo-Plarisan\\Windows form\\Department.cs",
+              "RelativeDocumentMoniker": "Windows form\\Department.cs",
+              "ToolTip": "C:\\Users\\Keny\\Desktop\\Project Payo-Plarisan\\Project Payo-Plarisan\\Project Payo-Plarisan\\Windows form\\Department.cs",
+              "RelativeToolTip": "Windows form\\Department.cs",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAiwAABAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T00:45:22.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Keny\\Desktop\\Project Payo-Plarisan\\Project Payo-Plarisan\\Project Payo-Plarisan\\Windows form\\Department.cs",
+              "RelativeDocumentMoniker": "Windows form\\Department.cs",
+              "ToolTip": "C:\\Users\\Keny\\Desktop\\Project Payo-Plarisan\\Project Payo-Plarisan\\Project Payo-Plarisan\\Windows form\\Department.cs [Design]",
+              "RelativeToolTip": "Windows form\\Department.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:01:07.118Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "College.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Keny\\Desktop\\Project Payo-Plarisan\\Project Payo-Plarisan\\Project Payo-Plarisan\\Windows form\\College.cs",
+              "RelativeDocumentMoniker": "Windows form\\College.cs",
+              "ToolTip": "C:\\Users\\Keny\\Desktop\\Project Payo-Plarisan\\Project Payo-Plarisan\\Project Payo-Plarisan\\Windows form\\College.cs [Design]",
+              "RelativeToolTip": "Windows form\\College.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:01:05.744Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

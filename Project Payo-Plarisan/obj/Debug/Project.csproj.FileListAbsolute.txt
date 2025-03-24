@@ -1,0 +1,48 @@
+C:\Users\rigil\Downloads\University-20250227T140743Z-001\University\bin\Debug\University.exe.config
+C:\Users\rigil\Downloads\University-20250227T140743Z-001\University\bin\Debug\University.exe
+C:\Users\rigil\Downloads\University-20250227T140743Z-001\University\bin\Debug\University.pdb
+C:\Users\rigil\Downloads\University-20250227T140743Z-001\University\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\rigil\Downloads\University-20250227T140743Z-001\University\obj\Debug\University.College.resources
+C:\Users\rigil\Downloads\University-20250227T140743Z-001\University\obj\Debug\University.Department.resources
+C:\Users\rigil\Downloads\University-20250227T140743Z-001\University\obj\Debug\University.Dashboard.resources
+C:\Users\rigil\Downloads\University-20250227T140743Z-001\University\obj\Debug\University.Properties.Resources.resources
+C:\Users\rigil\Downloads\University-20250227T140743Z-001\University\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\rigil\Downloads\University-20250227T140743Z-001\University\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\rigil\Downloads\University-20250227T140743Z-001\University\obj\Debug\University.exe
+C:\Users\rigil\Downloads\University-20250227T140743Z-001\University\obj\Debug\University.pdb
+C:\Users\rigil\Downloads\Project Payo-Plarisan\Project Payo-Plarisan\bin\Debug\University.exe.config
+C:\Users\rigil\Downloads\Project Payo-Plarisan\Project Payo-Plarisan\bin\Debug\University.exe
+C:\Users\rigil\Downloads\Project Payo-Plarisan\Project Payo-Plarisan\bin\Debug\University.pdb
+C:\Users\rigil\Downloads\Project Payo-Plarisan\Project Payo-Plarisan\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\rigil\Downloads\Project Payo-Plarisan\Project Payo-Plarisan\obj\Debug\University.College.resources
+C:\Users\rigil\Downloads\Project Payo-Plarisan\Project Payo-Plarisan\obj\Debug\University.Department.resources
+C:\Users\rigil\Downloads\Project Payo-Plarisan\Project Payo-Plarisan\obj\Debug\University.Dashboard.resources
+C:\Users\rigil\Downloads\Project Payo-Plarisan\Project Payo-Plarisan\obj\Debug\University.Properties.Resources.resources
+C:\Users\rigil\Downloads\Project Payo-Plarisan\Project Payo-Plarisan\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\rigil\Downloads\Project Payo-Plarisan\Project Payo-Plarisan\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\rigil\Downloads\Project Payo-Plarisan\Project Payo-Plarisan\obj\Debug\University.exe
+C:\Users\rigil\Downloads\Project Payo-Plarisan\Project Payo-Plarisan\obj\Debug\University.pdb
+C:\Users\Keny\Downloads\Project Payo-Plarisan\Project Payo-Plarisan\Project Payo-Plarisan\bin\Debug\University.exe.config
+C:\Users\Keny\Downloads\Project Payo-Plarisan\Project Payo-Plarisan\Project Payo-Plarisan\bin\Debug\University.exe
+C:\Users\Keny\Downloads\Project Payo-Plarisan\Project Payo-Plarisan\Project Payo-Plarisan\bin\Debug\University.pdb
+C:\Users\Keny\Downloads\Project Payo-Plarisan\Project Payo-Plarisan\Project Payo-Plarisan\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\Keny\Downloads\Project Payo-Plarisan\Project Payo-Plarisan\Project Payo-Plarisan\obj\Debug\University.College.resources
+C:\Users\Keny\Downloads\Project Payo-Plarisan\Project Payo-Plarisan\Project Payo-Plarisan\obj\Debug\University.Department.resources
+C:\Users\Keny\Downloads\Project Payo-Plarisan\Project Payo-Plarisan\Project Payo-Plarisan\obj\Debug\University.Dashboard.resources
+C:\Users\Keny\Downloads\Project Payo-Plarisan\Project Payo-Plarisan\Project Payo-Plarisan\obj\Debug\University.Properties.Resources.resources
+C:\Users\Keny\Downloads\Project Payo-Plarisan\Project Payo-Plarisan\Project Payo-Plarisan\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Keny\Downloads\Project Payo-Plarisan\Project Payo-Plarisan\Project Payo-Plarisan\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Keny\Downloads\Project Payo-Plarisan\Project Payo-Plarisan\Project Payo-Plarisan\obj\Debug\University.exe
+C:\Users\Keny\Downloads\Project Payo-Plarisan\Project Payo-Plarisan\Project Payo-Plarisan\obj\Debug\University.pdb
+C:\Users\Keny\Desktop\Project Payo-Plarisan\Project Payo-Plarisan\Project Payo-Plarisan\bin\Debug\University.exe.config
+C:\Users\Keny\Desktop\Project Payo-Plarisan\Project Payo-Plarisan\Project Payo-Plarisan\bin\Debug\University.exe
+C:\Users\Keny\Desktop\Project Payo-Plarisan\Project Payo-Plarisan\Project Payo-Plarisan\bin\Debug\University.pdb
+C:\Users\Keny\Desktop\Project Payo-Plarisan\Project Payo-Plarisan\Project Payo-Plarisan\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\Keny\Desktop\Project Payo-Plarisan\Project Payo-Plarisan\Project Payo-Plarisan\obj\Debug\University.College.resources
+C:\Users\Keny\Desktop\Project Payo-Plarisan\Project Payo-Plarisan\Project Payo-Plarisan\obj\Debug\University.Department.resources
+C:\Users\Keny\Desktop\Project Payo-Plarisan\Project Payo-Plarisan\Project Payo-Plarisan\obj\Debug\University.Dashboard.resources
+C:\Users\Keny\Desktop\Project Payo-Plarisan\Project Payo-Plarisan\Project Payo-Plarisan\obj\Debug\University.Properties.Resources.resources
+C:\Users\Keny\Desktop\Project Payo-Plarisan\Project Payo-Plarisan\Project Payo-Plarisan\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Keny\Desktop\Project Payo-Plarisan\Project Payo-Plarisan\Project Payo-Plarisan\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Keny\Desktop\Project Payo-Plarisan\Project Payo-Plarisan\Project Payo-Plarisan\obj\Debug\University.exe
+C:\Users\Keny\Desktop\Project Payo-Plarisan\Project Payo-Plarisan\Project Payo-Plarisan\obj\Debug\University.pdb
