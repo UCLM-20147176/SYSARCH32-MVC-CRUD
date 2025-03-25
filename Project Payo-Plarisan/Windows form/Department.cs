@@ -247,7 +247,7 @@ namespace University
 
         private void Department_Load(object sender, EventArgs e)
         {
-
+            //Deleted the Create button
         }
 
         private void button1_Click(object sender, EventArgs e)
